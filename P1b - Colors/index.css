@@ -1,0 +1,156 @@
+p{
+    width: 40%;
+}
+
+table tr td, table, table th {
+    border: 1px solid black;
+}
+
+table td{
+    width: 120px;
+}
+
+.cursiva{
+    font-style: italic;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+/* Complementaries */
+
+/*
+.col1{
+    color: #0000ff; /* #ff8000 
+}
+
+.col2{
+    color: #ff0000; /* 00ff00 
+}
+
+.col3{
+    color: #00ff00; /* 800000 
+}
+
+.col4{
+    color: #4d00ff; /* ff00ff 
+}
+
+.col5{
+    color: #ff8000; /* 4d00ff 
+}
+
+.col6{
+    color: #800000; /* ff2fac 
+}
+
+.col7{
+    color: #4d00ff; /* ff4000 
+}
+
+.col8{
+    color: #ff2fac; /* e2b42b 
+}
+*/
+/* Analogous */
+/*
+.col1{
+    color: #0066ff;  
+}
+
+.col2{
+    color: #ff0000;  
+}
+
+.col3{
+    color: #00ff99;  
+}
+
+.col4{
+    color: #4d00ff;   
+}
+
+.col5{
+    color: #802000;  
+}
+
+.col6{
+    color: #800000;  
+}
+
+.col7{
+    color: #800040;   
+}
+
+.col8{
+    color: #cc00ff;
+}*/
+
+/* Monochromatics */
+/*
+.col1{
+    color: #2e2ee6; 
+}
+
+.col2{
+    color: #e62e2e; 
+}
+
+.col3{
+    color: #2ee62e; 
+}
+
+.col4{
+    color: #652ee6; 
+}
+
+.col5{
+    color: #e68a2e;  
+}
+
+.col6{
+    color: #671515; 
+}
+
+.col7{
+    color: #652ee6;  
+}
+
+.col8{
+    color: #e658ad;  
+}
+*/
+
+/* Triada meva */
+.col1{
+    color: #5555ff;  
+}
+
+.col2{
+    color: #e62e2e;
+}
+
+.col3{
+    color: #008080;  
+}
+
+.col4{
+    color: #ff8000; 
+}
+
+.col5{
+    color: #ff4000; 
+}
+
+.col6{
+    color: #408000; 
+}
+
+.col7{
+    color: #ff0080; 
+}
+
+.col8{
+    color: #e62e8a; 
+}
